@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+
+    font-family: "Open Sans", sans-serif   ;
+
+
+}
+
+
+
+h1{
+    color:blueviolet;
+
+}
+
+h2{
+
+margin:0px ;
+font-weight: 700;
+
+}
+
+
+.time{
+
+width: 80%; /* largura da div */
+border:solid black 1px;
+padding:30px ;
+margin:20px ;
+box-shadow: 10px 10px;
+
+}
+
+#cru {
+
+color: aqua;
+
+}
+
+#cam {
+
+color: brown;
+
+}
+
+.imagens-time{
+
+    width:100px
+}
+
+p{
+
+    font-weight: 300;
+}
